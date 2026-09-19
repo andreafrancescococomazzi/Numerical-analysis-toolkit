@@ -1,5 +1,5 @@
 
-""" Esercizio 4 """
+"""Root finding with Newton's and secant methods."""
 
 # Il punto 1 dell'esercizio 4: " Individuare graficamente la radice positiva".
 # Il grafico verrà mostrato alla fine del codice in modo da non bloccare l'esecuzione.
