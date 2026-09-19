@@ -1,4 +1,4 @@
-""" Esercizio 2 """
+"""Least-squares approximation: normal equations and QR decomposition."""
 
 import numpy as np
 import matplotlib.pyplot as plt
