@@ -1,5 +1,5 @@
 
-"""ESERCIZIO 1"""
+"""Polynomial interpolation with equally spaced and Chebyshev nodes."""
 
 import numpy as np
 import matplotlib.pyplot as plt
