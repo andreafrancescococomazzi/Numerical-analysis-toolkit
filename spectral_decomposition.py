@@ -1,4 +1,6 @@
-""" Esercizio 3 """
+
+"""Spectral decomposition of a symmetric matrix."""
+
 import numpy as np
 
 
