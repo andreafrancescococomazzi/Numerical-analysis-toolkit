@@ -1,5 +1,5 @@
 
-""" Esercizio 1""" 
+"""Interpolation methods: linear spline, cubic spline, and global polynomial."""
 
 import numpy as np
 import matplotlib.pyplot as plt
